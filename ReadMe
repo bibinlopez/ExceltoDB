@@ -1,0 +1,5 @@
+// To run the server :- npm start
+// first you need install npm modules
+// URL :- http://localhost:3000/
+
+// upload excel sheet :- In form data, upload as filename: file
